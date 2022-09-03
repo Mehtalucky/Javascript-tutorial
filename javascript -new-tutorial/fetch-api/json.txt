@@ -1,0 +1,5 @@
+{
+    name:"lucky,
+    age:27,
+    email:"luckymehta909@gmail.com
+}
